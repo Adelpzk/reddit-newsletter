@@ -20,6 +20,10 @@ The Reddit Newsletter Application allows users to stay updated with the latest a
 - **APIs**: Reddit API, GPT API
 - **Message Queue**: Redis
 
+## System Diagram
+![Reddit - Architecture review](https://github.com/user-attachments/assets/5934f714-b307-40e9-adde-3d0e0743fb61)
+
+
 ## Application Link
 Access the Reddit Newsletter Application directly by visiting [reddit-newsletter.vercel.app](https://reddit-newsletter.vercel.app).
 
